@@ -26,7 +26,7 @@ public class JavaApplication94 {
                 System.out.println("Harga pesanan anda Rp : "+Harga);
             }
             default ->{
-                System.out.println("Menu yang anda ingin02kan tidak ada di dalam daftar menu");
+                System.out.println("Menu yang anda inginkan tidak ada di dalam daftar menu");
             } 
         }
          
